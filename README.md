@@ -5,5 +5,9 @@ window.onload = function () {
 };
 ```
 
+```html
+https://assets.mixkit.co/videos/preview/mixkit-mountain-climber-climbing-a-vertical-rock-face-43321-large.mp4
+```
+
 ## Resources
 https://assets.mixkit.co/videos/preview/mixkit-mountain-climber-climbing-a-vertical-rock-face-43321-large.mp4
